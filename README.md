@@ -11,7 +11,6 @@
 Since you're here, let's have a look at some recent projects I've been working on: <br>
 👉🏼 https://www.youtube.com/watch?v=NkXPgiovwqY
 
-<br><br>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
