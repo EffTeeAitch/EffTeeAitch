@@ -16,7 +16,7 @@ Since you're here, let's have a look at some recent projects I've been working o
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -34,7 +34,5 @@ Since you're here, let's have a look at some recent projects I've been working o
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EffTeeAitch&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+### :fire: My Lnaguages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EffTeeAitch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
