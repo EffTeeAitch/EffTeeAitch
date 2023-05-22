@@ -17,12 +17,7 @@ Since you're here, let's have a look at some recent projects I've been working o
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
-    <img <style>
-.grayscale { filter: grayscale(100%); }
-.contrast { filter: contrast(160%); }
-.brightness { filter: brightness(0.25); }
-.invert { filter: invert(100%); }
-</style> src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dunreal%2BEngine%2B4%2BLogo&psig=AOvVaw2APNwqtW_yFVSBK5WRkwvZ&ust=1684842491145000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjx_OjsiP8CFQAAAAAdAAAAABAE" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
