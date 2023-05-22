@@ -15,7 +15,8 @@ Since you're here, let's have a look at some recent projects I've been working o
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40" style="fill: rgb(0,94,184)" />&nbsp;
+<div style="background: rgb(128, 128, 128) ">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -26,7 +27,7 @@ Since you're here, let's have a look at some recent projects I've been working o
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
-
+</div>
 
 
 <!-- empty space for the better readability  -->
