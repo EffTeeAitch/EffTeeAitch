@@ -8,5 +8,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Hi there, I'm Szymon and here are some recent projects I've been working on: 
+Since you're here, let's have a look at some recent projects I've been working on: 
+👉🏼 https://www.youtube.com/watch?v=NkXPgiovwqY
 
