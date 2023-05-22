@@ -1,4 +1,4 @@
-### <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -11,3 +11,17 @@
 Since you're here, let's have a look at some recent projects I've been working on: <br>
 👉🏼 https://www.youtube.com/watch?v=NkXPgiovwqY
 
+<br><br>
+h1>
+  I worked with
+  
+</h1>
+
+
+<!-- empty space for the better readability  -->
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
