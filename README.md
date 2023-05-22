@@ -34,5 +34,5 @@ Since you're here, let's have a look at some recent projects I've been working o
 
 ---
 
-### :fire: My Lnaguages :
+### :fire: Mostly used languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EffTeeAitch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
