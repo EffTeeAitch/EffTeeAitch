@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -36,3 +36,6 @@ Since you're here, let's have a look at some recent projects I've been working o
 
 ### :fire: Mostly used languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EffTeeAitch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
