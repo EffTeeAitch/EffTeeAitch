@@ -8,7 +8,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Since you're here, let's have a look at some recent projects I've been working on: <br>
+Since you're here, let's have a look at some recent projects I've worked on: <br>
 🏼 <b>Primitive</b> -> https://www.youtube.com/watch?v=NkXPgiovwqY 
 
 ---
